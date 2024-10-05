@@ -1,0 +1,48 @@
+body{
+    background-color: black;
+}
+*{
+    font-family: "Roboto Mono", system-ui;
+    text-align: center;
+    color: white;
+}
+.h1{
+    background-color: darkslategray;
+}
+.h2{
+    background-color: darkslategray;
+}
+.h3{
+    transform: rotate(-30deg);
+    text-align: center;
+    text-shadow: 2px 2px 3px lightskyblue;
+    color: lightblue;
+}
+.p1{
+    text-shadow: 2px 2px 3px rgb(184, 184, 184);
+    color: lightgreen;
+}
+.p2{
+    text-shadow: 2px 2px 3px rgb(184, 184, 184);
+    color: lightblue;
+}
+.p3{
+    text-shadow: 2px 2px 3px rgb(184, 184, 184);
+    color: lightcoral;
+}
+.p4{
+    text-shadow: 2px 2px 3px rgb(184, 184, 184);
+    color: lightpink;
+}
+.p5{
+    text-shadow: 2px 2px 3px rgb(184, 184, 184);
+    color: lightskyblue;
+}
+.p6{
+    text-shadow: 2px 2px 3px rgb(184, 184, 184);
+    color: lightsteelblue;
+}
+.p7{
+    text-shadow: 2px 2px 3px rgb(184, 184, 184);
+    color: lightsalmon;
+}
